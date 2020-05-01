@@ -1,91 +1,89 @@
 [
     {
         
-        "optionA": "50 degrees Celcius",
-        "optionB": "25 degrees Celcius",
-        "optionC": "100 degrees Celcius",
-        "optionD": "150 degrees Celcius",
-        "answer": "100 degrees Celcius"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
         
-        "optionA": "Wole Soyinka",
-        "optionB": "William Shakespeare",
-        "optionC": "Ngozi Chimamanda Adichie",
-        "optionD": "Dan Brown",
-        "answer": "William Shakespeare"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
         
-        "optionA": "A Book",
-        "optionB": "A Computer",
-        "optionC": "A pair of shoes",
-        "optionD": "Alarm Clock",
-        "answer": "Alarm Clock"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
         
-        "optionA": "Dog",
-        "optionB": "Elephant",
-        "optionC": "Goat",
-        "optionD": "Lion",
-        "answer": "Elephant"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
+    },
+
+    {
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
         
-        "optionA": "Tony Stark",
-        "optionB": "Morgan Freeman",
-        "optionC": "Sherlock Holmes",
-        "optionD": "Samuel L. Jackson",
-        "answer": "Sherlock Holmes"
-    },
-
-    {
-        
-        "optionA": "Green and Yellow",
-        "optionB": "Blue and Red",
-        "optionC": "Green and White",
-        "optionD": "Black and White",
-        "answer": "Black and White"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
        
-        "optionA": "The Chest",
-        "optionB": "The Ear",
-        "optionC": "The Legs",
-        "optionD": "The Hands",
-        "answer": "The Ear"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
         
-        "optionA": "100",
-        "optionB": "10",
-        "optionC": "10,000",
-        "optionD": "1,000,000",
-        "answer": "100"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
         
-        "optionA": "Chicken Wrestling",
-        "optionB": "Horse racing",
-        "optionC": "Street Racing",
-        "optionD": "Arm Wrestling",
-        "answer": "Horse racing"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     },
 
     {
-        
-        "optionA": "Alexander Graham Bell",
-        "optionB": "Sir Isaac Newton",
-        "optionC": "Leonardo Da Vinci",
-        "optionD": "Albert Einstein",
-        "answer": "Leonardo Da Vinci"
+        "optionA": "AIRTEL",
+        "optionB": "RELIANCE",
+        "optionC": "JIO",
+        "optionD": "FACEBOOK",
+        "answer": "AIRTEL"
     }
 ]
