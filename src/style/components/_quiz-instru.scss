@@ -1,0 +1,44 @@
+#instruct{
+    background-image: url('../../assets/img/imginstru.jpg');
+    background-size: cover;
+    background-position: center;
+    
+    justify-content: space-around;
+    height: 120vh;
+    width: 100vw;
+
+.instructions{
+    border: 3px solid aqua;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 5px;
+    
+    margin-bottom: $lg;
+    padding: $normal $lg;
+    color: white;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-size: $md;
+}
+.start{
+    text-align: center;
+    color: black;
+
+}
+.center{
+    text-align: center;
+    border: 2px solid ;
+    background-color:rgba(0,0,0,0.7);
+    padding: $normal;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.3s linear all;
+    }
+    .center:hover{
+        background-color: rgba(0,0,0,0.9);
+        border: 2px solid gray;
+    }
+}
